@@ -3,6 +3,8 @@ ML-powered grade predictor using assignment scores &amp; attendance. Built with 
 # GradeWise — Student Grade Predictor
 
 *Because every student deserves to know where they stand before the final exam.*
+Here's what the Dashboard  looks like
+![Dashboard Screenshot]()
 
 ## What This Is
 
