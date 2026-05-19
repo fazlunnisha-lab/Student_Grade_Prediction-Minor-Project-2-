@@ -4,7 +4,7 @@ ML-powered grade predictor using assignment scores &amp; attendance. Built with 
 
 *Because every student deserves to know where they stand before the final exam.*
 Here's what the Dashboard  looks like
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/fazlunnisha-lab/Student_Grade_Prediction-Minor-Project-2-/blob/280f94e61cf30691d1ea703e0fdba67c0d88b876/demo.png)
 
 ## What This Is
 
